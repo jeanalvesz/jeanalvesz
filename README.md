@@ -25,11 +25,8 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ## 🧠 What I do
 
--   🏗️ SaaS & High-scale systems
 -   ⚡ Performance optimization
 -   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
 -   🤖 Automation & integrations
 -   📊 Dashboards & analytics
 -   🎓 Teaching & mentoring developers
